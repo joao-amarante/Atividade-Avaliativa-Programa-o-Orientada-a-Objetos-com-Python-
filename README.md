@@ -26,6 +26,22 @@ Sistema completo desenvolvido via terminal (console) para gerenciamento de entre
 
 ## 5. Como executar o projeto
 No terminal, navegue até a pasta do projeto e execute o arquivo `main.py`:
+## 6. Exemplos de uso
+<img width="393" height="283" alt="image" src="https://github.com/user-attachments/assets/888ad6da-f2c4-49b2-858f-d4cd3ed5f294" />
+<img width="342" height="221" alt="image" src="https://github.com/user-attachments/assets/300cce8e-1fbd-4fb0-b179-c123a73f6bc1" />
+<img width="396" height="244" alt="image" src="https://github.com/user-attachments/assets/3115a59f-a420-445e-9e0e-8ec5a5242182" />
+<img width="488" height="166" alt="image" src="https://github.com/user-attachments/assets/ec84ed22-caa0-42d9-9d55-a21c4705d975" />
+
+
 ```bash
+
 cd fast_delivery
 python main.py
+
+
+## 6. Exemplos de uso
+<img width="393" height="283" alt="image" src="https://github.com/user-attachments/assets/888ad6da-f2c4-49b2-858f-d4cd3ed5f294" />
+<img width="342" height="221" alt="image" src="https://github.com/user-attachments/assets/300cce8e-1fbd-4fb0-b179-c123a73f6bc1" />
+<img width="396" height="244" alt="image" src="https://github.com/user-attachments/assets/3115a59f-a420-445e-9e0e-8ec5a5242182" />
+<img width="488" height="166" alt="image" src="https://github.com/user-attachments/assets/ec84ed22-caa0-42d9-9d55-a21c4705d975" />
+
